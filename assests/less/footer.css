@@ -1,0 +1,30 @@
+footer {
+  background-color: #e06161;
+  padding: 80px;
+  background-size: cover;
+}
+footer ul {
+  display: flex;
+  justify-content: space-between;
+}
+footer ul li h6 {
+  font-family: 'Oswald', sans-serif;
+  color: #f6f6ff;
+  font-size: 20PX;
+  text-transform: uppercase;
+  padding-bottom: 10px;
+}
+footer ul li p {
+  color: aliceblue;
+  text-transform: capitalize;
+  font-size: 18px;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 40px;
+}
+footer ul i {
+  background-color: aliceblue;
+  padding: 10px;
+  border-radius: 60%;
+  color: #197cd3;
+  font-size: 20px;
+}

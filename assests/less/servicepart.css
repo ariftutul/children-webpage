@@ -1,0 +1,131 @@
+.servicepart {
+  background-color: #0da6e2;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 100px;
+}
+.servicepart h6 {
+  padding-top: 30px;
+  text-align: center;
+  color: aliceblue;
+  text-transform: capitalize;
+  font-size: 15px;
+  font-family: 'Montserrat', sans-serif;
+}
+.servicepart h4 {
+  padding-top: 5px;
+  text-align: center;
+  color: #f0f5fa;
+  text-transform: capitalize;
+  font-size: 30px;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 50px;
+}
+.servicepart .box5 {
+  background-color: aliceblue;
+  box-sizing: border-box;
+  padding: 30px;
+}
+.servicepart .box5 .picturebox {
+  text-align: center;
+}
+.servicepart .box5 .picturebox img {
+  width: 100px;
+}
+.servicepart .box5 h5 {
+  padding-top: 5px;
+  text-align: center;
+  color: #2d92f7;
+  text-transform: capitalize;
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+.servicepart .box5 p {
+  padding-top: 30px;
+  text-align: justify;
+  color: #222425;
+  text-transform: capitalize;
+  font-size: 15px;
+  font-family: 'Montserrat', sans-serif;
+}
+.servicepart .box6 {
+  background-color: aliceblue;
+  box-sizing: border-box;
+  padding: 30px;
+}
+.servicepart .box6 .picturebox {
+  text-align: center;
+}
+.servicepart .box6 .picturebox img {
+  width: 145px;
+}
+.servicepart .box6 h5 {
+  padding-top: 5px;
+  text-align: center;
+  color: #e6871b;
+  text-transform: capitalize;
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+.servicepart .box6 p {
+  padding-top: 30px;
+  text-align: justify;
+  color: #222425;
+  text-transform: capitalize;
+  font-size: 15px;
+  font-family: 'Montserrat', sans-serif;
+}
+.servicepart .box7 {
+  background-color: aliceblue;
+  box-sizing: border-box;
+  padding: 30px;
+}
+.servicepart .box7 .picturebox {
+  text-align: center;
+}
+.servicepart .box7 .picturebox img {
+  width: 143px;
+}
+.servicepart .box7 h5 {
+  padding-top: 5px;
+  text-align: center;
+  color: #f72d2d;
+  text-transform: capitalize;
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+.servicepart .box7 p {
+  padding-top: 30px;
+  text-align: justify;
+  color: #222425;
+  text-transform: capitalize;
+  font-size: 15px;
+  font-family: 'Montserrat', sans-serif;
+}
+.servicepart .box8 {
+  background-color: aliceblue;
+  box-sizing: border-box;
+  padding: 30px;
+}
+.servicepart .box8 .picturebox {
+  text-align: center;
+}
+.servicepart .box8 .picturebox img {
+  width: 100px;
+}
+.servicepart .box8 h5 {
+  padding-top: 5px;
+  text-align: center;
+  color: #9ce417;
+  text-transform: capitalize;
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+.servicepart .box8 p {
+  padding-top: 30px;
+  text-align: justify;
+  color: #222425;
+  text-transform: capitalize;
+  font-size: 15px;
+  font-family: 'Montserrat', sans-serif;
+}

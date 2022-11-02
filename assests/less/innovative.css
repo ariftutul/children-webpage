@@ -1,0 +1,34 @@
+.innovative {
+  padding: 100px 0px;
+}
+.innovative .picturelast {
+  box-sizing: border-box;
+  padding: 30px ;
+  background-image: linear-gradient(to right, rgba(255, 0, 0, 0), #72b8f1);
+}
+.innovative .picturelast img {
+  width: 500px;
+}
+.innovative h2 {
+  padding-left: 15px;
+  text-transform: capitalize;
+  font-size: 40px;
+  font-family: 'Montserrat', sans-serif;
+  color: #0f9cdd;
+}
+.innovative p {
+  padding: 15px;
+  text-transform: capitalize;
+  font-size: 18px;
+  font-family: 'Montserrat', sans-serif;
+}
+.innovative p span {
+  color: red;
+}
+.innovative a {
+  padding-left: 15px;
+  text-transform: capitalize;
+  font-size: 18px;
+  font-family: 'Montserrat', sans-serif;
+  color: red;
+}

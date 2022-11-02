@@ -1,0 +1,64 @@
+.postionpart {
+  position: relative;
+  top: -70px;
+  padding-bottom: 50px;
+}
+.postionpart .topic {
+  display: flex;
+}
+.postionpart .topic .box1 {
+  box-sizing: border-box;
+  background-color: #23c1dd;
+  padding: 70px;
+}
+.postionpart .topic .box1 img {
+  width: 70px;
+}
+.postionpart .topic .box1 a {
+  font-family: 'Oswald', sans-serif;
+  color: #0c0c0e;
+  font-size: 20PX;
+  text-transform: uppercase;
+}
+.postionpart .topic .box2 {
+  box-sizing: border-box;
+  background-color: #f0ec09;
+  padding: 70px;
+}
+.postionpart .topic .box2 img {
+  width: 70px;
+}
+.postionpart .topic .box2 a {
+  font-family: 'Oswald', sans-serif;
+  color: #0c0c0e;
+  font-size: 20PX;
+  text-transform: uppercase;
+}
+.postionpart .topic .box3 {
+  box-sizing: border-box;
+  background-color: #f75dd5;
+  padding: 70px;
+}
+.postionpart .topic .box3 img {
+  width: 70px;
+}
+.postionpart .topic .box3 a {
+  font-family: 'Oswald', sans-serif;
+  color: #0c0c0e;
+  font-size: 20PX;
+  text-transform: uppercase;
+}
+.postionpart .topic .box4 {
+  box-sizing: border-box;
+  background-color: #01968e;
+  padding: 70px;
+}
+.postionpart .topic .box4 img {
+  width: 70px;
+}
+.postionpart .topic .box4 a {
+  font-family: 'Oswald', sans-serif;
+  color: #0c0c0e;
+  font-size: 20PX;
+  text-transform: uppercase;
+}

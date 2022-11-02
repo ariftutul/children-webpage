@@ -1,0 +1,26 @@
+.enroll {
+  background-color: #68bbeb;
+  padding: 100px 0px;
+}
+.enroll h3 {
+  text-transform: capitalize;
+  font-size: 25px;
+  color: aliceblue;
+  font-family: 'Montserrat', sans-serif;
+}
+.enroll p {
+  padding-top: 30px;
+  text-transform: capitalize;
+  font-size: 18px;
+  text-align: justify;
+  font-family: 'Montserrat', sans-serif;
+}
+.enroll p span {
+  padding-left: 40px;
+  padding-top: 40px;
+  text-transform: capitalize;
+  font-size: 18px;
+  color: #f3f7f1;
+  text-align: justify;
+  font-family: 'Montserrat', sans-serif;
+}

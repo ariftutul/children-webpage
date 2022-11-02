@@ -1,0 +1,21 @@
+section {
+  background-color: #53cbfa;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 140px;
+}
+section h2 {
+  font-family: 'Oswald', sans-serif;
+  color: #eeeef5;
+  font-size: 40PX;
+  text-transform: uppercase;
+  text-align: center;
+  padding-bottom: 10px;
+}
+section p {
+  font-family: 'Oswald', sans-serif;
+  color: #eeeef5;
+  font-size: 20PX;
+  text-transform: uppercase;
+  text-align: center;
+}

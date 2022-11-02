@@ -1,0 +1,26 @@
+.banner {
+  padding-top: 50px;
+}
+.banner .picture {
+  box-sizing: border-box;
+  padding: 30px ;
+  background-image: linear-gradient(to right, rgba(255, 0, 0, 0), #72b8f1);
+}
+.banner .picture img {
+  width: 500px;
+}
+.banner .intro {
+  padding-left: 20PX;
+}
+.banner .intro h1 {
+  font-family: 'Oswald', sans-serif;
+  color: #116feb;
+  font-size: 50PX;
+  text-transform: uppercase;
+}
+.banner .intro h5 {
+  font-family: 'Oswald', sans-serif;
+  color: #0c0c0e;
+  font-size: 20PX;
+  text-transform: uppercase;
+}

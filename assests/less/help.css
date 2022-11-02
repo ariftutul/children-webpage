@@ -1,0 +1,16 @@
+.help {
+  padding: 80px;
+}
+.help .picture {
+  text-align: center;
+}
+.help .picture img {
+  width: 60px;
+}
+.help .picture p {
+  padding-top: 10px;
+  text-transform: capitalize;
+  font-size: 18px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}

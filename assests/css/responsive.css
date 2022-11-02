@@ -1,0 +1,275 @@
+
+@media (max-width: 575.98px) {
+  .banner .intro h1{
+    font-size: 20px;
+    text-align: center;
+  }
+  .banner .picture img{
+    width: 300px;
+  }
+  .postionpart{
+    padding-top: 40px;
+  }
+  .postionpart .topic .box1{
+    padding:13px;
+  }
+  .postionpart .topic .box1 img{
+    width: 40px;
+     }
+     .postionpart .topic .box1 a{
+    font-size: 10px;
+     }
+  .postionpart .topic .box2{
+    padding:10px;
+  }
+  .postionpart .topic .box2 img{
+ width: 40px;
+  }
+  .postionpart .topic .box2 a{
+ font-size: 10px;
+  }
+  .postionpart .topic .box3{
+    padding:10px;
+  }
+  .postionpart .topic .box3 img{
+    width: 40px;
+     }
+     .postionpart .topic .box3 a{
+    font-size: 10px;
+     }
+  .postionpart .topic .box4{
+    padding:10px;
+  }
+  .postionpart .topic .box4 img{
+    width: 40px;
+     }
+     .postionpart .topic .box4 a{
+    font-size: 10px;
+     }
+     section{
+      padding: 0px;
+     }
+     section h2{
+      font-size: 18px;
+     }
+     section p{
+      font-size: 15px;
+      text-align: justify;
+     }
+     .about .picture1{
+      padding-top: 10px;
+     }
+     .about .picture1 img{
+      width: 50%;
+    
+     }
+     .about .picture3{
+      padding-top: 5px;
+      text-align: center;
+     }
+     
+     .about .picture3 img{
+      width: 80%;
+     }
+     .servicepart{
+      padding: 0px;
+     }
+     .innovative .picturelast img{
+      width: 100%;
+     }
+     .innovative h2{
+      font-size: 20px;
+      text-align: center;
+      padding-top: 10px;
+
+     }
+     .innovative p{
+      font-size: 10px;
+      text-align: justify;
+     }
+     .enroll p{
+      text-align: justify;
+      font-size: 15px;
+     }
+     .enroll p span{
+      text-align: justify;
+      font-size: 15px;
+     }
+     footer ul{
+      flex-direction: column;
+      
+     }
+}
+
+
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .banner .intro h1{
+    font-size: 30px;
+    text-align: center;
+  }
+  .postionpart{
+    padding-top: 80px;
+
+  }
+  .postionpart .topic .box1{
+    padding:30px;
+  }
+  .postionpart .topic .box1 img{
+    width: 40px;
+     }
+     .postionpart .topic .box1 a{
+    font-size: 20px;
+     }
+  .postionpart .topic .box2{
+    padding:30px;
+  }
+  .postionpart .topic .box2 img{
+    width: 30px;
+     }
+     .postionpart .topic .box2 a{
+    font-size: 10px;
+     }
+  .postionpart .topic .box4{
+    padding:30px;
+  }
+  .postionpart .topic .box4 img{
+    width: 30px;
+     }
+     .postionpart .topic .box4 a{
+    font-size: 10px;
+     }
+  .postionpart .topic .box3{
+    padding:30px;
+  }
+  .postionpart .topic .box3 img{
+    width: 30px;
+     }
+     .postionpart .topic .box3 a{
+    font-size: 10px;
+     }
+  
+
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .banner .intro h1{
+    font-size: 40px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .postionpart{
+    padding-top: 80px;
+   
+ 
+  }
+  .postionpart .topic .box1{
+    padding:50px;
+  }
+  .postionpart .topic .box1 img{
+    width: 40px;
+     }
+     .postionpart .topic .box1 a{
+    font-size: 20px;
+     }
+  .postionpart .topic .box2{
+    padding:50px;
+  }
+  .postionpart .topic .box2 img{
+    width: 30px;
+     }
+     .postionpart .topic .box2 a{
+    font-size: 10px;
+     }
+  .postionpart .topic .box4{
+    padding:50px;
+  }
+  .postionpart .topic .box4 img{
+    width: 30px;
+     }
+     .postionpart .topic .box4 a{
+    font-size: 10px;
+     }
+  .postionpart .topic .box3{
+    padding:50px;
+  }
+  .postionpart .topic .box3 img{
+    width: 30px;
+     }
+     .postionpart .topic .box3 a{
+    font-size: 10px;
+     }
+     
+
+section p{
+  font-size: 10px;
+  margin-right: 10px;
+  text-align: center;
+}
+
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .banner .intro h1{
+    font-size: 40px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .postionpart{
+    padding-top: 80px;
+   
+ 
+  }
+  .postionpart .topic .box1{
+    padding:50px;
+  }
+  .postionpart .topic .box1 img{
+    width: 40px;
+     }
+     .postionpart .topic .box1 a{
+    font-size: 20px;
+     }
+  .postionpart .topic .box2{
+    padding:50px;
+  }
+  .postionpart .topic .box2 img{
+    width: 30px;
+     }
+     .postionpart .topic .box2 a{
+    font-size: 10px;
+     }
+  .postionpart .topic .box4{
+    padding:50px;
+  }
+  .postionpart .topic .box4 img{
+    width: 30px;
+     }
+     .postionpart .topic .box4 a{
+    font-size: 10px;
+     }
+  .postionpart .topic .box3{
+    padding:50px;
+  }
+  .postionpart .topic .box3 img{
+    width: 30px;
+     }
+     .postionpart .topic .box3 a{
+    font-size: 10px;
+     }
+     
+
+section p{
+  font-size: 10px;
+  margin-right: 10px;
+  text-align: center;
+}
+  
+}
+
+@media (min-width: 1200px) {
+
+
+}
